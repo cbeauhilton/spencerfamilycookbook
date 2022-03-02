@@ -1,6 +1,6 @@
 fig:example-macarons
 introduction
-appetizers
+Appetizers
 salad
 Sides
 Main
