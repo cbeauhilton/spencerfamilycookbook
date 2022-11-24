@@ -1,6 +1,6 @@
 # What is this?
 
-The Spencer Family Cookbook, online.
+The Spencer Family Cookbook, online!
 
 # Notes on usage
 
